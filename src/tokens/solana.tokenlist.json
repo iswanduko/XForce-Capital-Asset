@@ -1,3 +1,21 @@
+{
+  "name": "Solana Token List",
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Tokens with utility use-case"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "So11111111111111111111111111111111111111112",
+      "symbol": "SOL",
+      "name": "Solana",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png",
+      "tags": ["utility-token"]
+    },
     {
       "chainId": 101,
       "address": "GQqApeRwuhmDbE2fuFZESMKU9dotCUK5rFnMdChiPDj2",
@@ -7,3 +25,5 @@
       "logoURI": "https://sorotankata.com/wp-content/uploads/2025/07/XFC-logo-256x256-1.png",
       "tags": ["utility-token"]
     }
+  ]
+}
