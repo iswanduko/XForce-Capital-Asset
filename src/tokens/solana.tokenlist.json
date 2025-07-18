@@ -1,11 +1,9 @@
-  },
-  {
-    "chainId": 101,
-    "address": "GQqApeRwuhmDbE2fuFZESMKU9dotCUK5rFnMdChiPDj2",
-    "symbol": "XFC",
-    "name": "XForce Capital Asset",
-    "decimals": 6,
-    "logoURI": "https://sorotankata.com/wp-content/uploads/2025/07/XFC-logo-256x256-1.png",
-    "tags": ["utility-token"]
-  }
-]
+    {
+      "chainId": 101,
+      "address": "GQqApeRwuhmDbE2fuFZESMKU9dotCUK5rFnMdChiPDj2",
+      "symbol": "XFC",
+      "name": "XForce Capital Asset",
+      "decimals": 6,
+      "logoURI": "https://sorotankata.com/wp-content/uploads/2025/07/XFC-logo-256x256-1.png",
+      "tags": ["utility-token"]
+    }
