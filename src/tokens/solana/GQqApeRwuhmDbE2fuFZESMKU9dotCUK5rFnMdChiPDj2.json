@@ -1,0 +1,15 @@
+{
+  "name": "XForce Capital Asset",
+  "symbol": "XFC",
+  "decimals": 9,
+  "address": "GQqApeRwuhmDbE2fuFZESMKU9dotCUK5rFnMdChiPDj2",
+  "chainId": 101,
+  "logoURI": "https://sorotankata.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-14-at-23.06.36-768x768.jpeg.webp",
+  "tags": ["utility-token", "xforce"],
+  "extensions": {
+    "website": "https://sorotankata.com",
+    "description": "XForce Capital Asset (XFC) is a trusted token for digital asset growth and future investment opportunities.",
+    "twitter": "https://twitter.com/sorotankata",
+    "github": "https://github.com/iswanduko/XForce-Capital-Asset"
+  }
+}
